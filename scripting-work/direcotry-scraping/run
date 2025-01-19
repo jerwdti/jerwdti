@@ -1,0 +1,4 @@
+#! /bin/bash
+
+#the run script basically runs the build.sh and print the output into a new file called output.txt
+ ./build.sh > output.txt
