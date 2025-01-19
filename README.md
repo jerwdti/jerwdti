@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Chengtian Deng and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Chengtian Deng and I'm a software engineer from dell</h2>
 
 ###
 
