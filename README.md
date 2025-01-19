@@ -77,10 +77,3 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/jerwdti/jerwdti/output/snake.svg" alt="Snake animation" />
-
-###
