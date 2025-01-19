@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Chengtian Deng and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Chengtian Deng and I'm a software engineer from dell</h2>
 
 ###
 
@@ -77,10 +77,3 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/jerwdti/jerwdti/output/snake.svg" alt="Snake animation" />
-
-###
